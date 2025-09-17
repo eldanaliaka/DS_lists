@@ -1,6 +1,5 @@
 Supervised Learning Models
-
 Logistic Regression
 -	Description
--	Use cases
+-	Use case
 -	Example: sklearn.linear_model.LogisticRegression
